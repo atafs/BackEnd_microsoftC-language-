@@ -1,0 +1,11 @@
+c:\users\americo\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\americo\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\americo\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\americo\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\americo\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\americoLIB001helloWorldCMD.csprojResolveAssemblyReference.cache
