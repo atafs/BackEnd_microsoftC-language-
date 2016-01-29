@@ -9,3 +9,6 @@ D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\Console
 D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\clouds\Drive Ilimitado\BackEnd_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\americoLIB001helloWorldCMD.csprojResolveAssemblyReference.cache
+D:\clouds\Drive Ilimitado\BackEnd_microsoft_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\clouds\Drive Ilimitado\BackEnd_microsoft_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\clouds\Drive Ilimitado\BackEnd_microsoft_C#(language)\americoLIB_001_helloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

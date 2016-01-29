@@ -7,3 +7,6 @@ c:\users\americo\documents\visual studio 2015\Projects\WindowsFormsApplication1\
 c:\users\americo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 c:\users\americo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 c:\users\americo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\clouds\Drive Ilimitado\BackEnd_microsoft_C#(language)\americoLIB_001_helloWorld\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\clouds\Drive Ilimitado\BackEnd_microsoft_C#(language)\americoLIB_001_helloWorld\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\clouds\Drive Ilimitado\BackEnd_microsoft_C#(language)\americoLIB_001_helloWorld\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
